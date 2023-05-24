@@ -1,6 +1,3 @@
-## Setup the frontend of this project from
-https://github.com/shivam-bhadani/cf-stress-frontend
-
 # Website Overview
 ### 1. Enter ContestID and Problem Index
 <img src="https://res.cloudinary.com/dolv3aywb/image/upload/v1672600184/CF%20Stress/home_page_itkpzw.png" width="800px">

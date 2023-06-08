@@ -1,4 +1,4 @@
-module github.com/shivam-bhadani/cf-stress-backend
+module github.com/Nzarite/cf-stress-backend
 
 go 1.18
 
